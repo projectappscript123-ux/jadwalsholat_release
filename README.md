@@ -162,7 +162,6 @@
 ## 📞 Contact & Support
 
 **Developer:** Hikmal  
-**Email:** hiikmall777@gmail.com  
 **Company:** Jadwal Sholat Team  
 **Website:** https://tokke-luwuutara.desa.id
 
